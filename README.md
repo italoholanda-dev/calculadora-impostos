@@ -44,11 +44,3 @@ Este projeto foi construído utilizando os fundamentos do Desenvolvimento Web, s
 3. Abra o arquivo `index.html` em seu navegador de preferência. Não é necessária nenhuma instalação adicional.
 
 ---
-
-## 👨‍💻 Autor
-
-**Italo Holanda**  
-Estudante de Análise e Desenvolvimento de Sistemas.  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
